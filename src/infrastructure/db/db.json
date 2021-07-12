@@ -1,0 +1,31 @@
+{
+    "motel": [
+        {
+            "_id": 0,
+            "name": "Parque das flores",
+            "ratio": 3,
+            "regularWeekdayPrice": 110,
+            "regularWeekendPrice": 90,
+            "fidelidadeWeekdayPrice": 80,
+            "fidelidadeWeekendPrice": 80
+        },
+        {
+            "_id": 1,
+            "name": "Jardim Botânico",
+            "ratio": 4,
+            "regularWeekdayPrice": 160,
+            "regularWeekendPrice": 60,
+            "fidelidadeWeekdayPrice": 110,
+            "fidelidadeWeekendPrice": 50
+        },
+        {
+            "_id": 2,
+            "name": "Mar Atlântico",
+            "ratio": 5,
+            "regularWeekdayPrice": 220,
+            "regularWeekendPrice": 150,
+            "fidelidadeWeekdayPrice": 100,
+            "fidelidadeWeekendPrice": 40
+        }
+    ]
+}
