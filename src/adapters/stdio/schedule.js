@@ -4,10 +4,10 @@ module.exports = (
     ADAPTERS_STDIO: {
       SEPARATORS: {
         CLIENT_TYPE: ":",
-        DATE: ","
+        DATE: ",",
       },
-      DATE_PATTERN: 'ddMmmyyyy',
-      WEEKENDS: ['(sat)', '(sun)']
+      DATE_PATTERN: "ddMmmyyyy",
+      WEEKENDS: ["(sat)", "(sun)"],
     },
   }
 ) => {
